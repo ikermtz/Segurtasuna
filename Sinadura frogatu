@@ -1,0 +1,2 @@
+gpg --import nirekey.asc    #inportatu
+gpg --verify imtzayoSinatuta.gpg     # ondo sinatuta?

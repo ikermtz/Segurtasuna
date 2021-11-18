@@ -1,0 +1,3 @@
+#    Fitxategia sortu nireADB.md
+gpg -e -r "giltzapublikoa".asc nireADB.md   #  enkriptatu
+gpg --sign nireADB.md    #sinatu

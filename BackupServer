@@ -1,0 +1,1 @@
+rsync -av -e ssh LabsSegur user@ipexterna:/home/portatil

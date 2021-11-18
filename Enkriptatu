@@ -1,0 +1,7 @@
+gpg --gen-key   #usar el full generator que es mas tocho
+nirefitxategia.odt sortu
+gpg -a --recipient imtzayo@gmail.com -e nirefitxategia.odt
+ls 
+iker    # frase de paso
+gpg -d nirefitxategia.odt.gpg   #   desenkriptatu
+# berriz frase de paso

@@ -1,0 +1,3 @@
+gpg --export -a imtzayo > nire_public.key
+gpg --verify -r iker proba.md.gpg
+gpg -d proba.md.gpg

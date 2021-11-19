@@ -1,5 +1,4 @@
-gpg --gen-key   #usar el full generator que es mas tocho
-nirefitxategia.odt sortu
+gpg --gen-key   
 gpg -a --recipient imtzayo@gmail.com -e nirefitxategia.odt
 ls 
 iker    # frase de paso

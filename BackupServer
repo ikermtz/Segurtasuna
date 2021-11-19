@@ -1,1 +1,1 @@
-rsync -av -e ssh LabsSegur user@ipexterna:/home/portatil
+rsync -av --link-dest=/home/segurtasuna-1/backups ssh LabsSegur user@ipexterna:/home/portatil

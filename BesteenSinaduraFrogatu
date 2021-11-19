@@ -1,2 +1,2 @@
-gpg --import nirekey.asc    #inportatu
-gpg --verify imtzayoSinatuta.gpg     # ondo sinatuta?
+gpg --import nirekey.asc   
+gpg --verify imtzayoSinatuta.gpg     

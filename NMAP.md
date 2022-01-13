@@ -2,7 +2,7 @@
 
 Gure ip lortzeko ifconfig komandoa erabili (inet ip da gurea, 172.17.0.1)
   
-ping egela.ehu.eus --> para sacar la IP de egela
+ping egela.ehu.eus --> para sacar la IP de egela (158.227.0.93)
 
 nmap --open 158.227.0.93 --> para mirar los puertos abiertos en egela estan abiertos
 
